@@ -47,7 +47,7 @@
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.button1);
             this.Name = "Form1";
-            this.Text = "Reproductor de Musica 2";
+            this.Text = "Reproductor de Musica 1";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
 
