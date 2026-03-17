@@ -1,0 +1,12 @@
+# Visual Studio
+bin/
+obj/
+.vs/
+
+# Música
+**/Musica/
+*.mp3
+*.wav
+
+# NuGet
+packages/
